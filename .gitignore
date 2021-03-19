@@ -1,0 +1,11 @@
+# tmp-päätteiset tiedostot 
+.tmp
+
+
+# build-hakemistot
+/build
+
+
+# .gradle-hakemistot
+/.gradle
+
